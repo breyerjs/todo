@@ -112,7 +112,7 @@ def isInteger(string_val):
 
 def show_help():
     print("""
-`add "<something>"`: adds a todo item
+`add <something>`: adds a todo item
 `ls`: shows all in progress todo items
 `la`: shows all in progress and completed todo items
 `mv <index>`: completes a todo item
